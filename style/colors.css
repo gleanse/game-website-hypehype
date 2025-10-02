@@ -1,15 +1,15 @@
 /* GAME COLOR PALLETES */
 :root {
   /* PRIMARY */
-  --midnight-blue: #0D1B2A;
-  --blood-red: #D72638;
+  --midnight-blue: #0d1b2a;
+  --blood-red: #d72638;
 
   /* SECONDARY */
-  --steel-gray: #4B4E6D;
-  --shuriken-silver: #B0BEC5;
-  
+  --steel-gray: #4b4e6d;
+  --shuriken-silver: #b0bec5;
+
   /* OTHERS */
-  --ninja-black: #1C1C1C;
-  --shadow-purple: #5E548E;
-  --torch-orange: #FFA500;
+  --ninja-black: #1c1c1c;
+  --shadow-purple: #5e548e;
+  --torch-orange: #ffa500;
 }
